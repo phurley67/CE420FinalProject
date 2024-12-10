@@ -9,6 +9,7 @@ Original file is located at
 
 import requests
 import json
+import geocoder
 
 # Base URL for Open-Meteo API
 BASE_URL = "https://api.open-meteo.com/v1"
